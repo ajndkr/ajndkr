@@ -1,16 +1,13 @@
-### Hi there 👋
+## hello_there 👋
 
-<!--
-**AjinkyaIndulkar/AjinkyaIndulkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am a senior machine learning engineer at [Sensity](https://sensity.ai/).
 
-Here are some ideas to get you started:
+### open_source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://lanarky.ajndkr.com">
+<img src="assets/lanarky-light-mode.png" alt="lanarky" width="300" style="border: 1px solid grey; border-radius: 5px;">
+</a>
+
+### gh_stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ajndkr&show_icons=true&theme=radical&icon_color=586069&text_color=586069&bg_color=fff" alt="github-stats" width="500">
