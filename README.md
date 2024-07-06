@@ -3,7 +3,6 @@
 I am a senior machine learning engineer at [Sensity](https://sensity.ai/).
 
 - 🔭 I build ML for Sensity's anti-fraud detection services
-- 🌱 I also work on external generative AI projects (recently, mostly LLMs)
 
 ### Projects
 
