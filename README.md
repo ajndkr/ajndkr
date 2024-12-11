@@ -1,6 +1,6 @@
 ## hello_there 👋
 
-i am a senior machine learning engineer at [Sensity](https://sensity.ai/).
+i am the head of engineering at [Sensity](https://sensity.ai/).
 
 ### open_source
 
